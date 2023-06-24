@@ -1,0 +1,103 @@
+*{
+	font-family: monospace;
+   }
+   
+   .container-fluid{
+	   margin: 0;
+	   padding: 0;
+   }
+   
+   .navbar{
+	   border-radius: 0px;
+	   background-color: rgba(194, 56, 14, 0.8);
+   }
+   
+   .navbar-brand{
+	 font-size: 35px;
+	 color: rgb(255, 255, 255);
+	 padding-left: 25px;
+   }
+   
+   .navbar-brand:hover{
+	   color: rgb(10, 3, 41);
+   }
+   
+   .nav{
+	   margin: 0;
+	   padding: 0;
+   }
+   
+   .navbar-nav{
+	 font-size: 25px;
+	 text-align: center;
+	 margin: 0;
+	 padding: 0;
+   }
+   
+   .navbar-toggle{
+	   border: 2px solid rgba(194, 56, 14, 0.6);
+	   margin-right: 25px;
+   }
+   
+   .icon-bar{
+	   background-color: white;
+   }
+   
+   
+   .head1{
+	 margin-bottom: 15px;
+	 text-align: center;
+	 color: #0f4328;
+	 font-size: 50px;
+	 font-weight: bold;
+   }
+   
+   li{
+	   box-sizing: border-box;
+	   width: 100%;
+   }
+   
+   .nav-item{
+	   padding: 0;
+	   margin: 0;
+	   width: 100%;
+	   background-color: white;
+	   border-bottom: 1px solid black;
+	   color: black;
+	   display: block;
+   }
+   
+   .nav-item:hover{
+	   background-color: rgba(0,0,0,0.9);
+	   color: rgba(0,0,0,0.4);
+   }
+   
+   
+   
+   .row{
+	   margin: 20px;
+   }
+   
+   .para{
+	   margin: 20px;
+	   width: auto;
+	   height: auto;
+	   color: black;
+	   background-color: rgba(21, 190, 102, 0.4);
+	   padding: 20px;
+	   text-align: justify;
+   }
+   
+   .recipe{
+	   text-align: center;
+	   font-size: 20px;
+   }
+   
+   hr{
+	   text-align: center;
+	   width: 80%;
+	   border: 1px solid #0f4328 ;
+	   background-color: black;
+	   height: 1px;
+	   margin-top: 15px;
+   }
